@@ -1,0 +1,28 @@
+Your Conversation Log:
+You: Hi my name is gaurang
+AI: Hi Gaurang! It's nice to meet you. How can I help you today?
+
+You: what is my name?
+AI: Your name is Gaurang.
+
+You: tell me a joke
+AI: Why don't scientists trust atoms?
+
+Because they make up everything!
+
+You: try another one
+AI: Okay, here's another one:
+
+Why did the scarecrow win an award?
+
+Because he was outstanding in his field!
+
+You: haha
+AI: Glad you liked it! Want to hear another one? Let me know!
+
+You: yes please
+AI: Why don't eggs tell jokes?
+
+They'd crack each other up!
+
+End of Conversation
