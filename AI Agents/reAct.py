@@ -35,11 +35,6 @@ def multiply(a: int, b: int):
 
 tools = [add, subtract, multiply]
 
-
-
-
-tools = [add]
-
 gemini_api_key = os.getenv("GEMINI_API_KEY")
 
 
